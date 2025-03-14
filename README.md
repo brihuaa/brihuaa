@@ -2,17 +2,10 @@
 
 Estudiante de Ingeniería Informática en la Universidad Nebrija.
 
-🚀 **Portfolio interactivo:** [https://brihuaa.github.io](https://brihuaa.github.io/)
-
-## Sobre mí
-
-Soy un apasionado de la tecnología y la programación, con experiencia en diversos lenguajes y entornos de desarrollo. Me encanta aprender y enfrentar nuevos desafíos.
-
-
 
 ## Proyectos
 
-Puedes ver algunos de mis lenguajes, entornos y proyectos en mi [portfolio interactivo](https://brihuaa.github.io.html).
+Puedes ver algunos de mis lenguajes, entornos y proyectos en mi 🚀 **Portfolio interactivo:** [portfolio interactivo](https://brihuaa.github.io.html).
 
 ## Contacto
 
