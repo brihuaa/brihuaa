@@ -5,7 +5,7 @@ Estudiante de Ingeniería Informática en la Universidad Nebrija.
 
 ## Proyectos
 
-Puedes ver algunos de mis lenguajes, entornos y proyectos en mi 🚀 **Portfolio interactivo:** [portfolio interactivo](https://brihuaa.github.io.html).
+Puedes ver algunos de mis lenguajes, entornos y proyectos en mi 🚀 [**Portfolio interactivo:**](https://brihuaa.github.io.html).
 
 ## Contacto
 
