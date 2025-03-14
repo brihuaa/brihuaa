@@ -42,5 +42,5 @@ Puedes ver algunos de mis proyectos en mi [portfolio interactivo](https://brihua
 
 ## Contacto
 
-- **Email:** [adrian.brihuega@example.com](mailto:adrianbrihuegasanchez20@gmail.com)
-- **LinkedIn:** [Adrián Brihuega](https://www.linkedin.com/in/adrian-brihuega-sanchez-344707291/)
+- **Email:** [adrianbrihuegasanchez20@gmail.com](mailto:adrianbrihuegasanchez20@gmail.com)
+- **LinkedIn:** [Adrián Brihuega Sánchez](https://www.linkedin.com/in/adrian-brihuega-sanchez-344707291/)
