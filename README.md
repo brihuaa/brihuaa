@@ -46,33 +46,10 @@ Puedes explorar mis proyectos principales en mi portfolio interactivo:
 **Tecnologías:** React, JavaScript, HTML5, CSS3  
 _Descripción:_ Portfolio interactivo con animaciones y diseño responsive
 
-[![Competencias Técnicas](https://img.shields.io/badge/🛠️_Competencias_Técnicas-007ACC?style=for-the-badge)](https://github.com/brihuaa/Competencias)  
-**Tecnologías:** HTML5, CSS3, JavaScript, AOS Library  
-_Descripción:_ Presentación interactiva de habilidades técnicas con animaciones scroll
-
-### Algoritmos y Estructuras de Datos
-[![Huffman Coding](https://img.shields.io/badge/🧮_Huffman_Coding-4B275F?style=for-the-badge)](https://github.com/brihuaa/Huffman)  
-**Tecnologías:** Java, Algoritmos de compresión  
-_Descripción:_ Implementación del algoritmo de compresión Huffman
-
-### Herramientas y Utilidades
-[![Proyectos](https://img.shields.io/badge/📁_Gestor_Proyectos-61DAFB?style=for-the-badge)](https://github.com/brihuaa/Proyectos)  
-**Tecnologías:** Gestión de proyectos, Organización  
-_Descripción:_ Repositorio principal de organización de proyectos
-
-[![Mi Portfolio](https://img.shields.io/badge/💼_Portfolio_Antiguo-3178C6?style=for-the-badge)](https://github.com/brihuaa/MiPortfolio)  
-**Tecnologías:** HTML5, CSS3, JavaScript  
-_Descripción:_ Versión anterior de portfolio personal
-
-### Contribuciones
-[![Portfolio Template](https://img.shields.io/badge/🎨_Plantilla_Portfolio-FF6600?style=for-the-badge)](https://github.com/brihuaa/Portfolio)  
-**Tecnologías:** Plantilla HTML/CSS  
-_Descripción:_ Fork y personalización de plantilla de portfolio
 
 ## 📂 Repositorios Activos
 [![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/brihuaa.github.io?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/brihuaa.github.io)
-[![Competencias](https://img.shields.io/github/last-commit/brihuaa/Competencias?label=Competencias+Técnicas&style=flat-square)](https://github.com/brihuaa/Competencias)
-[![Huffman](https://img.shields.io/github/last-commit/brihuaa/Huffman?label=Algoritmo+Huffman&style=flat-square)](https://github.com/brihuaa/Huffman)
+
 
 ## 📫 Contacto
 
