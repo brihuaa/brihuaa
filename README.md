@@ -46,6 +46,13 @@ Puedes explorar mis proyectos principales en mi portfolio interactivo:
 **Tecnologías:** React, JavaScript, HTML5, CSS3  
 _Descripción:_ Portfolio interactivo con animaciones y diseño responsive
 
+[![File Management](https://img.shields.io/badge/🗂️_File_Management_Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/brihuaa/ProjectoEliminarTexto)  
+**Tecnologías:** [Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![PyInstaller](https://img.shields.io/badge/PyInstaller-5.7.0-brightgreen)   
+**Funcionalidades clave:**
+- 🗑️ Eliminación de documentos por contenido específico
+- ✏️ Modificación de nombres de archivos
+- 🔄 Reemplazo de texto en contenido (TXT/PDF/EPUB)
+- 🛡️ Gestión segura de documentos sensibles
 
 ## 📂 Repositorios Activos
 [![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/brihuaa.github.io?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/brihuaa.github.io)
