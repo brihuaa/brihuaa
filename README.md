@@ -49,7 +49,7 @@ _Descripción:_ Portfolio interactivo con animaciones y diseño responsive
 
 ## 📂 Repositorios Activos
 [![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/brihuaa.github.io?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/brihuaa.github.io)
-
+[![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/Epub-Reader?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/Epub-Reader)
 
 ## 📫 Contacto
 
