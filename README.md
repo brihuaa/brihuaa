@@ -2,6 +2,8 @@
 
 Estudiante de Ingeniería Informática en la Universidad Nebrija.  
 Apasionado por el desarrollo de software y las nuevas tecnologías.
+Puedes explorar mis proyectos principales en mi portfolio interactivo:  
+[**🌐 Portfolio Web**](https://brihuaa.github.io)
 
 ## 🛠️ Lenguajes y Tecnologías
 
@@ -38,9 +40,6 @@ Apasionado por el desarrollo de software y las nuevas tecnologías.
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brihuaa&layout=compact&theme=radical)](https://github.com/brihuaa)
 
 ## 🚀 Proyectos Destacados
-
-Puedes explorar mis proyectos principales en mi portfolio interactivo:  
-[**🌐 Portfolio Web**](https://brihuaa.github.io)
 
 Algunos de mis trabajos incluyen:
 - Desarrollo de aplicaciones Java con interfaz gráfica
