@@ -47,7 +47,9 @@ Puedes explorar mis proyectos principales en mi portfolio interactivo:
 _Descripción:_ Portfolio interactivo con animaciones y diseño responsive
 
 [![File Management](https://img.shields.io/badge/🗂️_File_Management_Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/brihuaa/ProjectoEliminarTexto)  
-**Tecnologías:** [Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![PyInstaller](https://img.shields.io/badge/PyInstaller-5.7.0-brightgreen)   
+
+**Tecnologías:** Python
+
 **Funcionalidades clave:**
 - 🗑️ Eliminación de documentos por contenido específico
 - ✏️ Modificación de nombres de archivos
