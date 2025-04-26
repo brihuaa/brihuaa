@@ -1,4 +1,4 @@
-# Hola 👋 Soy Adrián Brihuega ![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat)
+# Hola 👋 Soy Adrián Brihuega ![Profile Views](https://komarev.com/ghpvc/?username=brihuaa&color=blue&style=flat)
 
 
 Estudiante de Ingeniería Informática en la Universidad Nebrija.  
