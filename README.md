@@ -2,7 +2,6 @@
 
 
 Estudiante de Ingeniería Informática en la Universidad Nebrija.  
-Apasionado por el desarrollo de software y las nuevas tecnologías.
 Puedes explorar mis proyectos principales en mi portfolio interactivo:  
 [**🌐 Portfolio Web**](https://brihuaa.github.io)
 
