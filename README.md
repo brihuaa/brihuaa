@@ -2,7 +2,7 @@
 
 
 Estudiante de Ingeniería Informática en la Universidad Nebrija.  
-Puedes explorar mis proyectos principales en mi portfolio interactivo:  
+Puedes explorar mi portfolio interactivo:  
 [**🌐 Portfolio Web**](https://brihuaa.github.io)
 
 ## 🛠️ Lenguajes y Tecnologías
