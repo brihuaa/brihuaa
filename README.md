@@ -92,6 +92,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y3pWWzWBZlHvJ8V26w/giphy.gif" alt="Cierre animado verde" width="1000">
-</p>
