@@ -54,9 +54,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brihuaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brihuaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brihuaa&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brihuaa&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
 </p>
+
 
 ---
 
