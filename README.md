@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=39FF14&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/Y3pWWzWBZlHvJ8V26w/giphy.gif" alt="Cierre animado verde" width="1000">
 </p>
