@@ -1,69 +1,96 @@
-# Hola 👋 Soy Adrián Brihuega ![Profile Views](https://komarev.com/ghpvc/?username=brihuaa&color=blue&style=flat)
+<!-- README personalizado por Adrián Brihuega -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdrianUsuario/repo/main/assets/particles-green.gif" alt="Fondo animado de partículas verdes" width="1000">
+</p>
 
-Estudiante de Ingeniería Informática en la Universidad Nebrija.  
-Puedes explorar mi portfolio interactivo:  
-[**🌐 Portfolio Web**](https://brihuaa.github.io)
+<h1 align="center">💻 Adrián Brihuega</h1>
+<p align="center">
+  <b>Estudiante de Ingeniería Informática - Universidad Nebrija</b><br>
+  Apasionado por la tecnología, el desarrollo web y los sistemas inteligentes.
+</p>
+
+<p align="center">
+  <a href="https://brihuaa.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio_Web-39FF14?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
+
+---
 
 ## 🛠️ Lenguajes y Tecnologías
 
-### Lenguajes de Programación
+### 👨‍💻 Lenguajes de Programación
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338E?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=vhdl&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-### Desarrollo Web
+### 🌐 Desarrollo Web
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Entornos de Desarrollo
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-## 📈 Estadísticas de GitHub
+### 🧰 Entornos de Desarrollo
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=brihuaa&show_icons=true&theme=radical)](https://github.com/brihuaa)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brihuaa&layout=compact&theme=radical)](https://github.com/brihuaa)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brihuaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brihuaa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ## 🚀 Proyectos Destacados
 
-### Desarrollo Web
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-000000?style=for-the-badge)](https://brihuaa.github.io)  
-**Tecnologías:** React, JavaScript, HTML5, CSS3  
-_Descripción:_ Portfolio interactivo con animaciones y diseño responsive
+### 🌐 Portfolio Web
 
-[![File Management](https://img.shields.io/badge/🗂️_File_Management_Tool-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/brihuaa/ProjectoEliminarTexto)  
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-000000?style=for-the-badge)](https://brihuaa.github.io)
 
-**Tecnologías:** Python
+- **Tecnologías:** React, HTML5, CSS3, JS
+- **Descripción:** Portfolio interactivo, animado y responsive con despliegue en GitHub Pages.
 
-**Funcionalidades clave:**
-- 🗑️ Eliminación de documentos por contenido específico
-- ✏️ Modificación de nombres de archivos
-- 🔄 Reemplazo de texto en contenido (TXT/PDF/EPUB)
-- 🛡️ Gestión segura de documentos sensibles
+### 📂 File Management Tool
 
-## 📂 Repositorios Activos
-[![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/brihuaa.github.io?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/brihuaa.github.io)
-[![brihuaa github io](https://img.shields.io/github/last-commit/brihuaa/Epub-Reader?label=Portfolio+Web&style=flat-square)](https://github.com/brihuaa/Epub-Reader)
+[![File Management](https://img.shields.io/badge/🗂️_File_Manager-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/brihuaa/ProjectoEliminarTexto)
+
+- Eliminación de archivos por contenido
+- Renombrado masivo
+- Reemplazo de texto en TXT/PDF/EPUB
+
+---
 
 ## 📫 Contacto
 
-- **📧 Email:** [adrianbrihuegasanchez20@gmail.com](mailto:adrianbrihuegasanchez20@gmail.com)
-- **💼 LinkedIn:** [Adrián Brihuega Sánchez](https://www.linkedin.com/in/adrian-brihuega-sanchez-344707291/)
-- **🐱 GitHub:** [brihuaa](https://github.com/brihuaa)
+- 📧 [adrianbrihuegasanchez20@gmail.com](mailto:adrianbrihuegasanchez20@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-brihuega-sanchez-344707291/)
+- 🐱 [GitHub](https://github.com/brihuaa)
 
-![GitHub Followers](https://img.shields.io/github/followers/brihuaa?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/brihuaa?style=social" alt="GitHub Followers">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=39FF14&height=100&section=footer"/>
+</p>
